@@ -1,0 +1,6 @@
+E:\Zaawansowane_Programowanie\cw0401\cw0401\bin\Debug\cw0401.exe.config
+E:\Zaawansowane_Programowanie\cw0401\cw0401\bin\Debug\cw0401.exe
+E:\Zaawansowane_Programowanie\cw0401\cw0401\bin\Debug\cw0401.pdb
+E:\Zaawansowane_Programowanie\cw0401\cw0401\obj\Debug\cw0401.csprojResolveAssemblyReference.cache
+E:\Zaawansowane_Programowanie\cw0401\cw0401\obj\Debug\cw0401.exe
+E:\Zaawansowane_Programowanie\cw0401\cw0401\obj\Debug\cw0401.pdb
